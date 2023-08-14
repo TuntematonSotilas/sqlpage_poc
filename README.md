@@ -7,7 +7,7 @@ https://sql.ophir.dev
 
 ## Installation 
 
-[Download the latest SQLPage](https://sql.ophir.dev/your-first-sql-website/)
+[Download the latest SQLPage](https://github.com/lovasoa/SQLpage/releases)
 
 And place `sqlpage.bin`  Or `sqlpage.exe` at the root of the folder
 
